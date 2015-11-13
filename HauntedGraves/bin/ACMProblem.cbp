@@ -31,6 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="../ACMProblem/graveyard.cpp" />
+		<Unit filename="../ACMProblem/graveyard.h" />
+		<Unit filename="../ACMProblem/hauntedHoles.cpp" />
+		<Unit filename="../ACMProblem/hauntedHoles.h" />
+		<Unit filename="../ACMProblem/main.cpp" />
 		<Unit filename="graveyard.cpp" />
 		<Unit filename="graveyard.h" />
 		<Unit filename="hauntedHoles.cpp" />

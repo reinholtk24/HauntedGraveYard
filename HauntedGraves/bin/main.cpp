@@ -90,10 +90,6 @@ int main()
 
             myYard.viewYard();
 
-            myYard.gravePath();
-
-            std::cout << std::endl;
-
             myYard.clearIt();
 
             tries++;
